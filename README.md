@@ -6,4 +6,5 @@
 
 - Profits are based on 100,000 simulations
 
-- This project was inspired by *EthernetWink* on YouTube at https://www.youtube.com/@ethernetwink7230, however, I have significantly changed the initial struture of the code implement to Average Profit Prediction.
+- This project was inspired by *EthernetWink*, however, I have significantly changed the initial struture of the code implement to Average Profit Prediction.
+    - EthernetWink: https://www.youtube.com/@ethernetwink7230
